@@ -1,5 +1,4 @@
-# TFGEDR
-TFG Elena Díaz Rodríguez
+# TFG Elena Díaz Rodríguez
 
 Grado en Business Analytics
 
